@@ -24,7 +24,7 @@
         </div>
         <div class="col-xl-3">
           <img
-            src="img/dog2.jpg"
+            src="dog2.jpg"
             class="img-fluid img-thumbnail"
             style="width: 100%; height: 33%"
           />
