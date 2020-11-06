@@ -16,11 +16,11 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <div class="alert alert-success" role="alert">
+          <div class="alert alert-warning" role="alert">
             <div class="card">
               <img class="card-img-top" src="doh4.png" />
               <div class="card-body">
-                <div class="alert alert-success" role="alert">
+                <div class="alert alert-warning" role="alert">
                   <h4 class="card-title">Izuku Midoriya</h4>
                 </div>
                 <p class="card-text">
@@ -29,26 +29,7 @@
                   others and a Quirk that stockpiles power!
                 </p>
                 <p>
-                  <a href="#" class="btn btn-success">Read more</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="alert alert-info" role="alert">
-            <div class="card">
-              <img class="card-img-top" src="doh5.webp" />
-              <div class="card-body">
-                <div class="alert alert-info" role="alert">
-                  <h4 class="card-title">Shoto Todoroki</h4>
-                </div>
-                <p class="card-text">
-                  Half-Cold Half-Hot: Shoto's Quirk is a combination of his
-                  mother's ice Quirk and Endeavor's fire Quirk!
-                </p>
-                <p>
-                  <a href="#" class="btn btn-info">Read more</a>
+                  <a href="#" class="btn btn-warning">Read more</a>
                 </p>
               </div>
             </div>
@@ -57,9 +38,28 @@
         <div class="col">
           <div class="alert alert-danger" role="alert">
             <div class="card">
-              <img class="card-img-top" src="doh6.jpg" />
+              <img class="card-img-top" src="doh5.webp" />
               <div class="card-body">
                 <div class="alert alert-danger" role="alert">
+                  <h4 class="card-title">Shoto Todoroki</h4>
+                </div>
+                <p class="card-text">
+                  Half-Cold Half-Hot: Shoto's Quirk is a combination of his
+                  mother's ice Quirk and Endeavor's fire Quirk!
+                </p>
+                <p>
+                  <a href="#" class="btn btn-danger">Read more</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="alert alert-dark" role="alert">
+            <div class="card">
+              <img class="card-img-top" src="doh6.jpg" />
+              <div class="card-body">
+                <div class="alert alert-dark" role="alert">
                   <h4 class="card-title">Bakugou Katsuki</h4>
                 </div>
                 <p class="card-text">
@@ -67,7 +67,7 @@
                   style Explosion!!
                 </p>
                 <p>
-                  <a href="#" class="btn btn-danger">Read more</a>
+                  <a href="#" class="btn btn-dark">Read more</a>
                 </p>
               </div>
             </div>
