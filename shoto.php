@@ -18,7 +18,7 @@
         <div class="col">
           <div class="alert alert-success" role="alert">
             <div class="card">
-              <img class="card-img-top" src="img/doh4.png" />
+              <img class="card-img-top" src="doh4.png" />
               <div class="card-body">
                 <div class="alert alert-success" role="alert">
                   <h4 class="card-title">Izuku Midoriya</h4>
@@ -38,7 +38,7 @@
         <div class="col">
           <div class="alert alert-info" role="alert">
             <div class="card">
-              <img class="card-img-top" src="img/doh5.webp" />
+              <img class="card-img-top" src="doh5.webp" />
               <div class="card-body">
                 <div class="alert alert-info" role="alert">
                   <h4 class="card-title">Shoto Todoroki</h4>
@@ -57,7 +57,7 @@
         <div class="col">
           <div class="alert alert-danger" role="alert">
             <div class="card">
-              <img class="card-img-top" src="img/doh6.jpg" />
+              <img class="card-img-top" src="doh6.jpg" />
               <div class="card-body">
                 <div class="alert alert-danger" role="alert">
                   <h4 class="card-title">Bakugou Katsuki</h4>
